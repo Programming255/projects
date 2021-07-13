@@ -250,7 +250,7 @@ div.m1{
 }
 
 @media (max-width:858px) {
-
+    
 
     
     .z1{
@@ -319,6 +319,11 @@ div.m1{
     .ul li:not(:first-child) a:hover{
         color: rgb(0, 89, 255);
     }
+    
+    .in.checked ~ .d,.in.checked ~ .m2{
+        display:none;
+    }
+    
 
     
 }
