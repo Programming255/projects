@@ -210,7 +210,7 @@ div.m1{
     }
 }
 
-@media(max-width:958px){
+@media and screen(max-width:958px){
     .d{
         grid-template-columns: repeat(2,48.5%);
         
@@ -249,7 +249,7 @@ div.m1{
     
 }
 
-@media (max-width:858px) {
+@media and screen(max-width:858px) {
 
 
     
@@ -324,7 +324,7 @@ div.m1{
 }
 
 
-@media(max-width:678px){
+@media and screen(max-width:678px){
     .d{
         grid-template-columns: repeat(1,100%);
     }
