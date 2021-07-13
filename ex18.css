@@ -196,7 +196,7 @@ div.m1{
 }
 
 
-@media(max-width:1000px){
+@media and screen(max-width:1000px){
     .z1{
         font-size: 13px;
     }
