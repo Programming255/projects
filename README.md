@@ -1,7 +1,7 @@
 <html>
   
  <body>
-   <a href="">HtML</a>
+   <a href="index.html">Ex1</a>
  </body>
   
 </html>
