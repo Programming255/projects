@@ -21,7 +21,7 @@ if (screen.width <= 450){
             width:70%;               \
             border-radius:0px;\
             right:15%;\
-            border:2px solid #eee;\
+            border-right:2px solid #eee;\
             height:60%;\
         ';
         
