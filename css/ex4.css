@@ -129,7 +129,7 @@ body{
     height: 100%;
     position: absolute;
     left: 50%;
-    top:15%;
+    top: 140px;
     margin: auto;
     transform: translateX(-50%);
     -webkit-transform: translateX(-50%);
