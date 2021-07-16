@@ -12,7 +12,7 @@ if (screen.width <= 450){
         vr('.d').style.display = 'none';
         vr('.nav2').style.display = 'none';
         vr('.w3').style.display = 'none';
-        vr('.nav1').style.cssText = 'grid-template-columns:1fr;background:white;';
+        vr('.nav1').style.cssText = 'grid-template-columns:1fr;background:white;height:12%;';
 
 
 
